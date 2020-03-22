@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d9455670ea2ff0a0aadc97c62b81a883",
+    "revision": "cab5924ee4da4897f041f4993ebf73bb",
     "url": "/date-picker-simple-app/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/date-picker-simple-app/static/js/2.1eaf2c39.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c61b63bef06a5d534981",
-    "url": "/date-picker-simple-app/static/js/main.056fe612.chunk.js"
+    "revision": "f4b6ba85d4d3e7f51034",
+    "url": "/date-picker-simple-app/static/js/main.4414515c.chunk.js"
   },
   {
     "revision": "99b760f634bab9239616",
