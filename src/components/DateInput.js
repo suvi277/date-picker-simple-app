@@ -20,7 +20,7 @@ class DateInput extends React.Component {
 		const fromDate = new Date(startDate);
 		const month = fromDate.getMonth() + 1;
 		axios
-			.get(`http://numbersapi.com/${month}/${fromDate.getDate()}/date`)
+			.get(`https://cors-anywhere.herokuapp.com/http://numbersapi.com/${month}/${fromDate.getDate()}/date`)
 			.then((response) => {
 				this.setState({ fact: response.data });
 			})
