@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/date-picker-simple-app/static/js/main.d7d070eb.chunk.js",
+    "main.js.map": "/date-picker-simple-app/static/js/main.d7d070eb.chunk.js.map",
+    "runtime-main.js": "/date-picker-simple-app/static/js/runtime-main.91f73a3a.js",
+    "runtime-main.js.map": "/date-picker-simple-app/static/js/runtime-main.91f73a3a.js.map",
+    "static/css/2.c011c208.chunk.css": "/date-picker-simple-app/static/css/2.c011c208.chunk.css",
+    "static/js/2.1eaf2c39.chunk.js": "/date-picker-simple-app/static/js/2.1eaf2c39.chunk.js",
+    "static/js/2.1eaf2c39.chunk.js.map": "/date-picker-simple-app/static/js/2.1eaf2c39.chunk.js.map",
+    "index.html": "/date-picker-simple-app/index.html",
+    "precache-manifest.b8957bf5d86fe567eaf0d871ea2d6055.js": "/date-picker-simple-app/precache-manifest.b8957bf5d86fe567eaf0d871ea2d6055.js",
+    "service-worker.js": "/date-picker-simple-app/service-worker.js",
+    "static/css/2.c011c208.chunk.css.map": "/date-picker-simple-app/static/css/2.c011c208.chunk.css.map",
+    "static/js/2.1eaf2c39.chunk.js.LICENSE.txt": "/date-picker-simple-app/static/js/2.1eaf2c39.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91f73a3a.js",
+    "static/css/2.c011c208.chunk.css",
+    "static/js/2.1eaf2c39.chunk.js",
+    "static/js/main.d7d070eb.chunk.js"
+  ]
+}
